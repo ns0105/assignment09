@@ -11,3 +11,16 @@
 
     color: #8d3838;
 }
+
+.logo img{
+
+    height: 50px;
+    width: 50px;
+}
+
+.bestsellers_book{
+
+    color: #08002c;
+    font-size: 40px;
+    
+}
